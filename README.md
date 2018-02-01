@@ -33,7 +33,7 @@ Components added in this fork:
   * [HTPC Manager](http://htpc.io/) [TODO from danielbmarshall fork](https://github.com/danielbmarshall/mediabox)
   * [Hydra NZB Metasearch](https://github.com/theotherp/nzbhydra)
   * [Muximux](https://github.com/mescon/Muximux) [TODO from danielbmarshall fork](https://github.com/danielbmarshall/mediabox)
-  * [Ubiquiti Unifi](https://unifi-sdn.ubnt.com/) [TODO from danielbmarshall fork](https://github.com/danielbmarshall/mediabox)
+  * [Mylar comic library manager](https://github.com/evilhero/mylar)
   * [Ubooquity](https://vaemendis.net/ubooquity/) [TODO from danielbmarshall fork](https://github.com/danielbmarshall/mediabox)
 
 # Prerequisites
