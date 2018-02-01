@@ -4,6 +4,12 @@ Mediabox is meant to be an all Docker Container based media aggregator stack.
 # ABOUT THIS FORK:
 I'm using [/u/gesis' Google Drive mounting scripts](https://www.reddit.com/r/PlexACD/comments/6bmt9s/a_framework_and_tutorial_for_configuring_your_own/) and some home-grown docker scripts. It seems like I should replace that home-grown stuff with something better, so I'm taking a look at this as a starting point.
 
+Stuff to deal with:
+  * configs :  $HOME/.config/DOCKERNAME
+  * media   :  $HOME/media [this is a union-fs mount]
+  * add nginx or [traefik](https://github.com/hkaj/reverse_proxy) reverse proxy
+  * integrate all gesis' setup stuff and store my configs here [that'll require a private respository]
+
 Components include:
   * [Couchpotato movie library manager](https://couchpota.to/)
   * [Deluge torrent client (using VPN)](http://deluge-torrent.org/)
