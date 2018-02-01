@@ -52,6 +52,10 @@ Install the prerequisite packages:
 
 `$ sudo apt install git python bridge-utils`
 
+gesis prerequisite packages:
+
+`$ sudo apt-get install unionfs-fuse encfs bc screen`
+
 **Note** - Mediabox uses Docker CE as the default Docker version now - if you skip this and run with older Docker versions you may have issues.
 
 1. Uninstall old versions: `$ sudo apt remove docker docker-engine docker.io`
