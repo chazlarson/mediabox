@@ -14,7 +14,6 @@ Components include:
   * [Couchpotato movie library manager](https://couchpota.to/)
   * [Deluge torrent client (using VPN)](http://deluge-torrent.org/)
   * [Duplicati Backup Software](https://www.duplicati.com/)
-  * [Hydra NZB Metasearch](https://github.com/theotherp/nzbhydra)
   * [Jackett Tracker API and Proxy](https://github.com/Jackett/Jackett)
   * [Minio cloud storage](https://www.minio.io/)
   * [NetData System Monitoring](https://github.com/firehol/netdata)
@@ -28,6 +27,15 @@ Components include:
   * [Sonarr TV library manager](https://sonarr.tv/)
   * [Watchtower automatic container updater](https://github.com/v2tec/watchtower)
 
+Components added in this fork:
+  * [cAdvisor](https://github.com/google/cadvisor) [TODO from danielbmarshall fork](https://github.com/danielbmarshall/mediabox)
+  * [Home-Assistant](https://home-assistant.io/) [TODO from danielbmarshall fork](https://github.com/danielbmarshall/mediabox)
+  * [HTPC Manager](http://htpc.io/) [TODO from danielbmarshall fork](https://github.com/danielbmarshall/mediabox)
+  * [Hydra NZB Metasearch](https://github.com/theotherp/nzbhydra)
+  * [Muximux](https://github.com/mescon/Muximux) [TODO from danielbmarshall fork](https://github.com/danielbmarshall/mediabox)
+  * [Ubiquiti Unifi](https://unifi-sdn.ubnt.com/) [TODO from danielbmarshall fork](https://github.com/danielbmarshall/mediabox)
+  * [Ubooquity](https://vaemendis.net/ubooquity/) [TODO from danielbmarshall fork](https://github.com/danielbmarshall/mediabox)
+
 # Prerequisites
 
   * [Ubuntu 16.04 LTS](https://www.ubuntu.com/)
@@ -36,6 +44,14 @@ Components include:
   * [Docker](https://www.docker.com/)
   * [Python 2.7](https://www.python.org/)
   * [Docker-Compose](https://docs.docker.com/compose/)
+
+# from gesis framework
+  * [GSuite account from Google]
+  * [rclone]
+  * [plexdrive]
+  * [unionfs-fuse]
+  * [bc]
+  * [screen]
 
 **PLEASE NOTE**
 
