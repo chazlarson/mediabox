@@ -36,6 +36,12 @@ Components added in this fork:
   * [Mylar comic library manager](https://github.com/evilhero/mylar)
   * [Ubooquity](https://vaemendis.net/ubooquity/) [TODO from danielbmarshall fork](https://github.com/danielbmarshall/mediabox)
 
+# Issues:
+  * paths not set corectly [all media missing in plex]
+  * delugeVPN not starting
+
+`2018-02-01 11:24:58.939323 [crit] No OpenVPN config file located in /config/openvpn/ (ovpn extension), please download from your VPN provider and then restart this container, exiting...`
+
 # Prerequisites
 
   * [Ubuntu 16.04 LTS](https://www.ubuntu.com/)
