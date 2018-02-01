@@ -14,6 +14,7 @@ Components include:
   * [Couchpotato movie library manager](https://couchpota.to/)
   * [Deluge torrent client (using VPN)](http://deluge-torrent.org/)
   * [Duplicati Backup Software](https://www.duplicati.com/)
+  * [Hydra NZB Metasearch](https://github.com/theotherp/nzbhydra)
   * [Jackett Tracker API and Proxy](https://github.com/Jackett/Jackett)
   * [Minio cloud storage](https://www.minio.io/)
   * [NetData System Monitoring](https://github.com/firehol/netdata)
